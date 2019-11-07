@@ -7,7 +7,7 @@ Bump mapping:
 
 Hay dos métodos principales para realizar mapeo de relieve:
 
-El primero utiliza un mapa de altura para simular el desplazamiento de la superficie produciendo la normalidad modificada. 
+>El primero utiliza un mapa de altura para simular el desplazamiento de la superficie produciendo la normalidad modificada. 
 El otro método es especificar un mapa normal que contenga la normal modificada para cada punto en la superficie directamente. Como lo normal se especifica directamente en lugar de derivarlo de un mapa de altura, este método generalmente conduce a resultados más predecibles.
 
 Normal mapping:
