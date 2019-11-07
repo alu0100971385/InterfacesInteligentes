@@ -5,7 +5,7 @@ Light mapping:
 Bump mapping:
 >Consiste en dar un aspecto rugoso a las superficies de los objetos. Esta técnica modifica las normales de la superficie sin cambiar su geometría.(Esto se logra al perturbar las normales de la superficie del objeto y al usar la normal perturbada durante los cálculos de iluminación.)
 
-Hay dos métodos principales para realizar mapeo de relieve:
+>Hay dos métodos principales para realizar mapeo de relieve:
 
 >El primero utiliza un mapa de altura para simular el desplazamiento de la superficie produciendo la normalidad modificada. 
 El otro método es especificar un mapa normal que contenga la normal modificada para cada punto en la superficie directamente. Como lo normal se especifica directamente en lugar de derivarlo de un mapa de altura, este método generalmente conduce a resultados más predecibles.
